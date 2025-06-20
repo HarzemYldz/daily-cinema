@@ -1,6 +1,4 @@
----
 
-````md
 # DailyCinema
 
 ## Kısa Tanım ve Amaç
@@ -36,7 +34,7 @@ Bu uygulamanın çalışabilmesi için bir TMDB API anahtarına ihtiyaç vardır
 2. API Key oluşturun (v3 önerilir).
 3. Proje kök dizininde bir `.env` dosyası oluşturun ve aşağıdaki satırı içine yazın:
 
-```
+```env
 VITE_TMDB_API_KEY=your_tmdb_api_key_here
 ```
 
@@ -73,8 +71,4 @@ Harzem Umut Yıldız
 
 MIT
 
-```
 
----
-
-```
