@@ -17,7 +17,9 @@ DailyCinema, modern ve görsel açıdan zengin bir film/dizi rehberi uygulaması
 - LocalStorage (favoriler, görünüm, tema)
 
 ## Ekran Görüntüsü
-📷
+![DailyCinema Demo](public/demo.png)
+
+Yukarıda DailyCinema arayüzüne ait örnek bir ekran görüntüsü yer almaktadır.
 
 ## Kurulum
 ```bash
